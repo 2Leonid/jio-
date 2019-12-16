@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Gotham; 
+    src: url(GothaProBla.otf); 
+}
+
+@font-face {
+    font-family: OpenSans; 
+    src: url(OpenSans-Light.ttf); 
+   }
+
+   @font-face {
+    font-family: Lato; 
+    src: url(latolight.ttf); 
+   }
+
+    @font-face {
+    font-family: LatoBold; 
+    src: url(latobold.ttf); 
+   }
